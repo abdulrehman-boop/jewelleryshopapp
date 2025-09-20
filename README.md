@@ -1,16 +1,31 @@
-# jewelleryshopapp
+💎 Jewellery Shopping App
 
-A new Flutter project.
+A modern Flutter-based mobile application for discovering and shopping elegant jewellery collections. The app provides a seamless and visually appealing shopping experience with detailed product views, special offers, and a smooth checkout process.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+🛍️ Browse rings, necklaces, earrings, bracelets & more
 
-A few resources to get you started if this is your first Flutter project:
+⭐ Add to favorites & manage wishlists
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛒 Cart functionality with secure checkout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎁 Exclusive offers & discounts page
+
+🔍 Product details with high-quality images
+
+🌙 Light & Dark mode support
+
+📱 Smooth & responsive UI with Flutter
+
+🛠️ Tech Stack
+
+Flutter – Cross-platform app development
+
+Firebase – Authentication & Database
+
+Firestore – Real-time product storage
+
+Stripe/PayPal – Secure payments (optional)
+
+State Management – Provider / Riverpod / GetX
