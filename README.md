@@ -1,8 +1,8 @@
-💎 Jewellery Shopping App
+## Jewellery Shopping App
 
 A modern Flutter-based mobile application for discovering and shopping elegant jewellery collections. The app provides a seamless and visually appealing shopping experience with detailed product views, special offers, and a smooth checkout process.
 
-✨ Features
+## Features
 
 🛍️ Browse rings, necklaces, earrings, bracelets & more
 
@@ -18,14 +18,12 @@ A modern Flutter-based mobile application for discovering and shopping elegant j
 
 📱 Smooth & responsive UI with Flutter
 
-🛠️ Tech Stack
+## Tech Stack
 
 Flutter – Cross-platform app development
 
 Firebase – Authentication & Database
 
-Firestore – Real-time product storage
+Stripe – Secure payments (optional)
 
-Stripe/PayPal – Secure payments (optional)
-
-State Management – Provider / Riverpod / GetX
+State Management – Setstate
