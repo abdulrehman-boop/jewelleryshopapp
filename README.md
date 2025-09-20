@@ -26,4 +26,7 @@ Firebase – Authentication & Database
 
 Stripe – Secure payments (optional)
 
+## Screenshots
+I have add appimages in folder (apimages)
+
 State Management – Setstate
